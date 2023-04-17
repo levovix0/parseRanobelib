@@ -1,0 +1,22 @@
+{
+  "src/parseRanobelib.nim": {
+    "Reading Volume {c.volume} Chapter {c.number}": {
+      "": "Чтение Том {c.volume} Глава {c.number}"
+    },
+    "Reading heading...": {
+      "": "Чтение заголовка..."
+    },
+    "Downloading image {link}": {
+      "": "Скачивание изображения {link}"
+    },
+    "Volume {x.volume}\tNumber {x.number}:\t{x.name}": {
+      "": "Том {x.volume}\tГлава {x.number}:\t{x.name}"
+    },
+    "failed to download Volume {c.volume} Chapter {c.number}": {
+      "": "Не удалось скачать Том {c.volume} Главу {c.number}"
+    },
+    "...Failed": {
+      "": "...Ошибка"
+    }
+  }
+}
